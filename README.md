@@ -17,4 +17,6 @@ https://lcboapi.com/docs/v1/
 - Make an ajax request to the appropriate endpoint to get the inventory count for the selected product and store location.
 - Display the inventory count inside of the modal only after when the user selects a store location.
 
+Note: More detailed instructions are included inside of the component files
+
 
