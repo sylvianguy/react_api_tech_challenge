@@ -1,5 +1,5 @@
-# react_api_tech_challenge
-🌶🌶 Level Tech Challenge
+# React/API Tech Challenge
+- Level of Challenge: 🌶🌶
 
 # App Description
 - An app that allows users to select wine or beer products and get the inventory count for specified store locations
