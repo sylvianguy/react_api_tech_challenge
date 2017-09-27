@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 
 import Home from './components/Home';
 
-// const CreateRedirect = (props) => <Redirect to={props.path} /> ;
-
 class App extends React.Component {
 
     render() {
