@@ -5,7 +5,7 @@
 - An app that allows users to select wine or beer products and get the inventory count for specified store locations. 
 
 # How it works
--Once the the alcohol has loaded onto the page, the user should be able to click on a product and a modal should appear. When providing a postal code it should give the user a dropdown list of store locations nearby. Finally the user should be able to select any store location and get the inventory count for that specific location.
+- Once the the alcohol has loaded onto the page, the user should be able to click on a product and a modal should appear. When providing a postal code it should give the user a dropdown list of store locations nearby. Finally the user should be able to select any store location and get the inventory count for that specific location.
 
 # Tools Required
 - React
