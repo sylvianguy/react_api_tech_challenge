@@ -7,8 +7,7 @@ const Modal = ({
 	stores,
 	getStores,
 	city,
-	sent,
-	id, 
+	sent, 
 	chosenAlch, 
 	closeModal
 }) => {
